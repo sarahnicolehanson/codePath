@@ -5,7 +5,7 @@ Change text color using interactive button.
 
 ### App Walk-though
 
-<img src="http://recordit.co/Mi45n3f62j" width=200><br>
+<img src="http://g.recordit.co/Mi45n3f62j.gif" width=200><br>
 
 ### Required User Stories
 - [x ] 1. User sees custom text in a label - Hello from {name}!
